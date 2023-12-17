@@ -1,0 +1,7 @@
+{
+"user_id"        : "****",
+"password"       : "****",
+"totp"           : "*****",
+"webdriver_path" : "C:/Users/venka/chromedriver-win64", 
+"url"            : "https://console.zerodha.com/portfolio/holdings"
+}
